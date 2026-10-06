@@ -1,0 +1,24 @@
+/* 設定整個網頁的基本文字與背景 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f7fb;
+  color: #243447;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* 設定頁首與頁尾 */
+header,
+footer {
+  background-color: #234e70;
+  color: white;
+  padding: 24px;
+  text-align: center;
+}
+
+/* 設定主要內容區域 */
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+}
